@@ -1,0 +1,37 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset raw files
+data/raw/
+HAM10000_images/
+
+# MLflow runs
+mlruns/
+
+# Cache files
+.cache/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Large temporary files
+*.zip
+*.tar
+*.gz
+
+# MLflow database
+mlflow.db
+
+# CUDA / compiler temporary files
+ptxas

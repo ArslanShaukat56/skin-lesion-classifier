@@ -1,0 +1,65 @@
+[
+    {
+        "class_code": "akiec",
+        "class_name": "Actinic Keratoses and Intraepithelial Carcinoma",
+        "description": "A rough, scaly skin growth caused mainly by long-term sun exposure.",
+        "typical_signs": "Dry, rough, scaly, red, pink or brown patch on sun-exposed skin.",
+        "risk_level": "Moderate \u2014 it is precancerous and may develop into skin cancer.",
+        "recommended_action": "Arrange a dermatologist examination for proper diagnosis and treatment.",
+        "source": "National Cancer Institute and American Academy of Dermatology"
+    },
+    {
+        "class_code": "bcc",
+        "class_name": "Basal Cell Carcinoma",
+        "description": "Basal cell carcinoma is a common skin cancer that begins in the lower part of the epidermis.",
+        "typical_signs": "A slow-growing pearly bump, pink patch, bleeding sore, or sore that does not heal.",
+        "risk_level": "High \u2014 it is cancerous, but it rarely spreads to other parts of the body.",
+        "recommended_action": "Arrange a dermatologist examination as soon as possible for diagnosis and treatment.",
+        "source": "National Cancer Institute and American Academy of Dermatology"
+    },
+    {
+        "class_code": "bkl",
+        "class_name": "Benign Keratosis-like Lesions",
+        "description": "Benign keratosis-like lesions are non-cancerous skin growths such as seborrheic keratosis, solar lentigo and lichen planus-like keratosis.",
+        "typical_signs": "A brown, tan or dark patch or raised growth that may look waxy, rough, scaly or stuck onto the skin.",
+        "risk_level": "Low \u2014 these lesions are usually benign, but they can sometimes resemble skin cancer.",
+        "recommended_action": "Consult a dermatologist if the lesion changes, grows quickly, bleeds, itches or looks unusual.",
+        "source": "HAM10000 dataset paper and American Academy of Dermatology"
+    },
+    {
+        "class_code": "df",
+        "class_name": "Dermatofibroma",
+        "description": "Dermatofibroma is a common benign skin growth made of fibrous tissue.",
+        "typical_signs": "A small, firm pink, tan or brown bump that may dimple inward when pinched.",
+        "risk_level": "Low \u2014 it is usually harmless and does not become cancerous.",
+        "recommended_action": "Consult a dermatologist if it grows, changes, bleeds, becomes painful or looks unusual.",
+        "source": "DermNet and British Association of Dermatologists"
+    },
+    {
+        "class_code": "mel",
+        "class_name": "Melanoma",
+        "description": "Melanoma is a serious skin cancer that begins in melanocytes, the cells that produce skin pigment.",
+        "typical_signs": "A new or changing mole with asymmetry, irregular borders, uneven colors, increasing size or continued change.",
+        "risk_level": "Very high \u2014 melanoma can invade nearby tissue and spread to other parts of the body.",
+        "recommended_action": "Arrange an urgent dermatologist examination. A suspicious lesion requires professional assessment and possible biopsy.",
+        "source": "National Cancer Institute and American Academy of Dermatology"
+    },
+    {
+        "class_code": "nv",
+        "class_name": "Melanocytic Nevi",
+        "description": "Melanocytic nevi are common moles formed by groups of pigment-producing skin cells.",
+        "typical_signs": "A small, round or oval spot that is usually pink, tan or brown with a clear border.",
+        "risk_level": "Low \u2014 most common moles are benign, but unusual or changing moles may require examination.",
+        "recommended_action": "Consult a dermatologist if the mole changes in size, shape, color, sensation, or begins itching or bleeding.",
+        "source": "National Cancer Institute and American Academy of Dermatology"
+    },
+    {
+        "class_code": "vasc",
+        "class_name": "Vascular Lesions",
+        "description": "Vascular lesions are skin growths or abnormalities involving blood vessels, including angiomas, angiokeratomas and pyogenic granulomas.",
+        "typical_signs": "A red, purple, blue or dark spot or raised bump that may sometimes bleed.",
+        "risk_level": "Low to moderate \u2014 many vascular lesions are benign, but some may resemble other skin conditions.",
+        "recommended_action": "Consult a dermatologist if the lesion changes, grows quickly, bleeds repeatedly or looks unusual.",
+        "source": "HAM10000 dataset paper and DermNet"
+    }
+]
