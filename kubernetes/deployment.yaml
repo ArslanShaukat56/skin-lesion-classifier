@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: skin-lesion-api-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: skin-lesion-api
+  template:
+    metadata:
+      labels:
+        app: skin-lesion-api
+    spec:
+      containers:
+        - name: skin-lesion-api
+          image: skin-lesion-api:latest
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 8000
